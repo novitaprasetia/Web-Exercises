@@ -427,6 +427,20 @@ p{
 
 }
 
+footer{
+	clear:both;
+}
+
+footer h5{
+	text-align: center;
+	margin-right:0;
+}
+
+/* ---------------------------
+	Button Style
+   --------------------------- */
+
+
 .button{
 	margin-top:-65px;
 	margin-left: 100px;
@@ -463,15 +477,6 @@ p{
 	-webkit-backface-visibility: hidden;
 }
 
-
-footer{
-	clear:both;
-}
-
-footer h5{
-	text-align: center;
-	margin-right:0;
-}
 /* ---------------------------
 	Global Style
    --------------------------- */
